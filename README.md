@@ -63,9 +63,9 @@ For example:
 
 ![R² Comparison](assets/r2_comparison.png)
 
-**Predicted vs Actual Scatter Plot:**
+**Actual vs Predicted Scatter Plot :**
 
-![Predicted vs Actual](assets/pred_vs_actual.png)
+![Actual vs Predicted](assets/pred_vs_actual.png)
 
 ---
 

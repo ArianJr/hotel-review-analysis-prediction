@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/hotel_review_thumbnail.png" alt="Hotel Review Analysis Thumbnail"/>
+</p>
+
 # Hotel Review Analysis & Score Prediction
 
 [![Notebook](https://img.shields.io/badge/notebook-Jupyter-orange.svg)](./hotel_review_analysis_prediction.ipynb)

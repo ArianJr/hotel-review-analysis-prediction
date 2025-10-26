@@ -154,7 +154,7 @@ To improve reproducibility and production-readiness:
 
 ## License
 
-This project is released under the **MIT License**. See [`LICENSE`](license) for details.
+This project is released under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
 ---
 

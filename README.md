@@ -56,6 +56,7 @@ You can showcase one or two of your model performance plots here for better pres
 For example:
 
 **R² Comparison:**
+
 ![R² Comparison](assets/r2_comparison.png)
 
 **Predicted vs Actual Scatter Plot:**

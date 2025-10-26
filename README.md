@@ -71,6 +71,14 @@ For example:
 
 ## Project structure
 
+| Path | Description |
+|------|-------------|
+| `Hotel_Review_Analysis_and_Prediction.ipynb` | Main notebook for data preprocessing, exploratory analysis, and regression modeling. |
+| `assets/` | Contains visual assets such as plots and thumbnails used in documentation and presentation. |
+| `data/` | Placeholder for raw and processed datasets. Excluded from version control to protect privacy and support reproducibility. |
+| `README.md` | Provides a structured project overview, setup instructions, and documentation for reviewers and collaborators. |
+| `requirements.txt` | Defines Python dependencies to ensure consistent environment setup and reproducible results. |
+| `.gitignore` | Specifies files and directories to exclude from Git tracking, maintaining a clean and focused repository. |
 
 
 ---

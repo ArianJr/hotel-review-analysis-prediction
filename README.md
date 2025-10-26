@@ -73,7 +73,7 @@ For example:
 
 | Path | Description |
 |------|-------------|
-| `Hotel_Review_Analysis_and_Prediction.ipynb` | Main notebook for data preprocessing, exploratory analysis, and regression modeling. |
+| `hotel_review_analysis_and_prediction.ipynb` | Main notebook for data preprocessing, exploratory analysis, and regression modeling. |
 | `assets/` | Contains visual assets such as plots and thumbnails used in documentation and portfolio presentation. |
 | `data/` | Placeholder for raw and processed datasets. Excluded from version control to protect privacy and support reproducibility. |
 | `LICENSE` | Specifies the terms under which the project can be used, modified, and distributed (MIT License). |

@@ -88,10 +88,9 @@ pip install -r requirements.txt
 ### Run the notebook
 
 1. Place the CSV files in the `data/` directory:
-
-- `data/hotels.csv`
-- `data/reviews.csv`
-- `data/users.csv`
+ - `data/hotels.csv`
+ - `data/reviews.csv`
+ - `data/users.csv`
 
 2. Launch Jupyter:
 ```bash

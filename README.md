@@ -4,6 +4,25 @@
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)]()
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)]()
 
+---
+
+## Table of Contents
+
+- [Overview](#-overview)
+- [Key Results](#-key-results)
+- [Visual Results](#-visual-results)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+  - [Requirements](#-requirements)
+  - [Run the Notebook](#-run-the-notebook)
+- [Reproducibility & Recommended Workflow](#-reproducibility--recommended-workflow)
+- [Suggestions for Improvement](#-suggestions-for-improvement)
+- [Acknowledgments](#-acknowledgments)
+- [License](#-license)
+- [Contact](#-contact)
+
+---
+
 ## Overview
 
 **Hotel Review Analysis & Score Prediction** is a reproducible data science project that explores hotel, review, and user metadata to predict an overall review score (`score_overall`). The project combines exploratory data analysis (EDA), feature engineering, and supervised regression models to compare performance and produce a deployable prediction pipeline.
@@ -31,10 +50,25 @@ The notebook demonstrates:
 
 ---
 
+## Visual Results
+
+You can showcase one or two of your model performance plots here for better presentation.  
+For example:
+
+**R² Comparison:**
+![R² Comparison](assets/r2_comparison.png)
+
+**Predicted vs Actual Scatter Plot:**
+![Predicted vs Actual](assets/pred_vs_actual.png)
+
+> Place your generated plots (e.g. `r2_comparison.png`, `pred_vs_actual.png`) inside an `assets/` folder in your repo.  
+> This visual section adds clarity and professional polish.
+> 
+---
+
 ## Project structure
 
 
-> Keep raw data out of the repository; include a `data/README.md` describing how to obtain the data or include a small sample dataset for demonstration.
 
 ---
 
@@ -100,16 +134,21 @@ To improve reproducibility and production-readiness:
 
 ---
 
-## Contributing
+## Acknowledgments
 
-Contributions are welcome! If you want to contribute:
+- **Dataset Source:**  
+  This project uses hotel review, user, and hotel metadata from the provided dataset files (`hotels.csv`, `reviews.csv`, `users.csv`).  
+  If this dataset originated from a public source such as [Kaggle](https://www.kaggle.com/), please credit it here appropriately.  
+  Example:  
+  > Dataset adapted from *[Hotel Reviews Dataset – Kaggle](https://www.kaggle.com/datasets/alperenmyung/international-hotel-booking-analytics)* (accessed 2025).
 
-1. Fork the repository
-2. Create a branch for your feature: `git checkout -b feat/your-feature`
-3. Make changes and add tests where appropriate
-4. Submit a pull request describing your changes
+- **Tools & Libraries:**  
+  - Python (pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost)  
+  - Jupyter Notebook  
+  - Joblib (for model persistence)
 
-Please follow the existing code style and add clear commit messages.
+- **Special Thanks:**  
+  Gratitude to the open-source community and data science educators who promote best practices in data analysis, reproducibility, and machine learning development.
 
 ---
 
@@ -123,7 +162,21 @@ This project is released under the **MIT License**. See [LICENSE] for details.
 
 Author: *Arian Jr* — [My GitHub](https://github.com/ArianJr)
 
+---
 
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/ArianJr" target="_blank">ArianJr</a>
+</p>
 
+<p align="center">
+  <sub>⭐ If you found this project useful, please consider giving it a star! It helps others discover it and supports my work.</sub>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/ArianJr/power-output-prediction-ann?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/ArianJr/power-output-prediction-ann?style=social" alt="GitHub forks">
+</p>
 
 

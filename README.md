@@ -59,11 +59,9 @@ For example:
 ![R² Comparison](assets/r2_comparison.png)
 
 **Predicted vs Actual Scatter Plot:**
+
 ![Predicted vs Actual](assets/pred_vs_actual.png)
 
-> Place your generated plots (e.g. `r2_comparison.png`, `pred_vs_actual.png`) inside an `assets/` folder in your repo.  
-> This visual section adds clarity and professional polish.
-> 
 ---
 
 ## Project structure

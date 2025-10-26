@@ -12,18 +12,18 @@
 
 ## Table of Contents
 
-- [Overview](#-overview)
-- [Key Results](#-key-results)
-- [Visual Results](#-visual-results)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-  - [Requirements](#-requirements)
-  - [Run the Notebook](#-run-the-notebook)
-- [Reproducibility & Recommended Workflow](#-reproducibility--recommended-workflow)
-- [Suggestions for Improvement](#-suggestions-for-improvement)
-- [Acknowledgments](#-acknowledgments)
-- [License](#-license)
-- [Contact](#-contact)
+- [Overview](#overview)
+- [Key Results](#key-results)
+- [Visual Results](#visual-results)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+  - [Requirements](#requirements)
+  - [Run the Notebook](#run-the-notebook)
+- [Reproducibility & Recommended Workflow](#reproducibility--recommended-workflow)
+- [Suggestions for Improvement](#suggestions-for-improvement)
+- [Acknowledgments](#acknowledgments)
+- [License](#license)
+- [Contact](#contact)
 
 ---
 
